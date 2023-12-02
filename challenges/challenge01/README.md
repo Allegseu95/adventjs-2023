@@ -1,21 +1,6 @@
 # ¡Primer Regalo Repetido!
 
- <div
-      style="
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #4caf50;
-        color: white;
-        padding: 5px;
-        width: 100px;
-        gap: 5px;
-        border-radius: 20px;
-      "
-    >
-      <strong style="margin: 0; padding: 0">Nivel:</strong>
-      <p style="margin: 0; padding: 0">Fácil</p>
-</div>
+**Nivel:** **_Fácil_**
 
 ## Instrucciones
 

@@ -6,9 +6,10 @@ Retos de [AdventJs](https://adventjs.dev)
 
 ## Retos
 
-| #   | Reto                                                           | Mejor Solución                                   |
-| --- | -------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | [¡Primer Regalo Repetido!](./challenges/challenge01/README.md) | [Código](./challenges/challenge01/solution01.js) |
+| #   | Reto                                                               | Mejor Solución                                   |
+| --- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| 1   | [¡Primer Regalo Repetido!](./challenges/challenge01/README.md)     | [Código](./challenges/challenge01/solution01.js) |
+| 2   | [Ponemos en marcha la fábrica](./challenges/challenge02/README.md) | [Código](./challenges/challenge02/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
