@@ -21,6 +21,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 11  | [Los elfos estudiosos](./challenges/challenge11/README.md)            | [Código](./challenges/challenge11/solution01.js) |
 | 12  | [¿Es una copia válida?](./challenges/challenge12/README.md)           | [Código](./challenges/challenge12/solution01.js) |
 | 13  | [Calcular el tiempo](./challenges/challenge13/README.md)              | [Código](./challenges/challenge13/solution01.js) |
+| 14  | [Evitar la Alarma](./challenges/challenge14/README.md)                | [Código](./challenges/challenge14/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
