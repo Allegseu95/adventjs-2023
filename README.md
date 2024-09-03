@@ -18,6 +18,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 8   | [Ordenar el Almacén](./challenges/challenge08/README.md)              | [Código](./challenges/challenge08/solution01.js) |
 | 9   | [Encender las luces](./challenges/challenge09/README.md)              | [Código](./challenges/challenge09/solution01.js) |
 | 10  | [Crea tu propio árbol de Navidad](./challenges/challenge10/README.md) | [Código](./challenges/challenge10/solution01.js) |
+| 11  | [Los elfos estudiosos](./challenges/challenge11/README.md)            | [Código](./challenges/challenge11/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
