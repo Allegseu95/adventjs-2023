@@ -16,6 +16,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 6   | [El Reno a Prueba](./challenges/challenge06/README.md)             | [Código](./challenges/challenge06/solution01.js) |
 | 7   | [Las Cajas 3D](./challenges/challenge07/README.md)                 | [Código](./challenges/challenge07/solution01.js) |
 | 8   | [Ordenar el Almacén](./challenges/challenge08/README.md)           | [Código](./challenges/challenge08/solution01.js) |
+| 9   | [Encender las luces](./challenges/challenge09/README.md)           | [Código](./challenges/challenge09/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
