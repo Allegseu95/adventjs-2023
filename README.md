@@ -14,6 +14,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 4   | [Gira los paréntesis](./challenges/challenge04/README.md)          | [Código](./challenges/challenge04/solution01.js) |
 | 5   | [El CyberTruck de Santa](./challenges/challenge05/README.md)       | [Código](./challenges/challenge05/solution01.js) |
 | 6   | [El Reno a Prueba](./challenges/challenge06/README.md)             | [Código](./challenges/challenge06/solution01.js) |
+| 7   | [Las Cajas 3D](./challenges/challenge07/README.md)                 | [Código](./challenges/challenge07/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
