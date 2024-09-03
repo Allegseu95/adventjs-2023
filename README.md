@@ -24,6 +24,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 14  | [Evitar la Alarma](./challenges/challenge14/README.md)                | [Código](./challenges/challenge14/solution01.js) |
 | 15  | [Robot Autónomo](./challenges/challenge15/README.md)                  | [Código](./challenges/challenge15/solution01.js) |
 | 16  | [Despliegue del Viernes](./challenges/challenge16/README.md)          | [Código](./challenges/challenge16/solution01.js) |
+| 17  | [Optimizar el alquiler](./challenges/challenge17/README.md)           | [Código](./challenges/challenge17/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
