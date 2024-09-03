@@ -13,6 +13,7 @@ Retos de [AdventJs](https://adventjs.dev)
 | 3   | [El elfo travieso](./challenges/challenge03/README.md)             | [Código](./challenges/challenge03/solution01.js) |
 | 4   | [Gira los paréntesis](./challenges/challenge04/README.md)          | [Código](./challenges/challenge04/solution01.js) |
 | 5   | [El CyberTruck de Santa](./challenges/challenge05/README.md)       | [Código](./challenges/challenge05/solution01.js) |
+| 6   | [El Reno a Prueba](./challenges/challenge06/README.md)             | [Código](./challenges/challenge06/solution01.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) 🧑‍💻
 
